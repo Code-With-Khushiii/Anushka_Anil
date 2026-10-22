@@ -670,10 +670,10 @@ function App() {
             <div className="flex items-center">
               <Mail className="w-6 h-6 text-brown mr-6" />
               <a
-                href="mailto:yadavaanushka1918@gmail.com"
+                href="mailto:yadavanushka1918@gmail.com"
                 className="text-white/80 font-light hover:text-white transition-colors"
               >
-                yadavaanushka1918@gmail.com
+                yadavanushka1918@gmail.com
               </a>
             </div>
           </div>
